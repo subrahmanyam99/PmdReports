@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <duplication lines="3" tokens="20">
+      <file line="4"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="5"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <codefragment><![CDATA[public static void main(String args[]) {
+	try {
+		System.out.println("Hi...");]]></codefragment>
+   </duplication>
+   <duplication lines="7" tokens="11">
+      <file line="6"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="8"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <codefragment><![CDATA[		System.out.println("Hi...");
+	}catch(Exception ex) {
+		
+	}
+
+}
+}]]></codefragment>
+   </duplication>
+   <duplication lines="1" tokens="6">
+      <file line="6"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="7"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <file line="8"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <codefragment><![CDATA[		System.out.println("Hi...");]]></codefragment>
+   </duplication>
+   <duplication lines="1" tokens="2">
+      <file line="3"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="3"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <codefragment><![CDATA[public class CopyTest {]]></codefragment>
+   </duplication>
+   <duplication lines="1" tokens="2">
+      <file line="4"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="7"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="5"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <file line="9"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <codefragment><![CDATA[public static void main(String args[]) {]]></codefragment>
+   </duplication>
+   <duplication lines="3" tokens="2">
+      <file line="9"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="12"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <codefragment><![CDATA[	}
+
+}]]></codefragment>
+   </duplication>
+   <duplication lines="2" tokens="2">
+      <file line="11"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="11"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <codefragment><![CDATA[}
+}]]></codefragment>
+   </duplication>
+   <duplication lines="1" tokens="1">
+      <file line="3"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="4"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="3"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <file line="5"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <codefragment><![CDATA[public class CopyTest {]]></codefragment>
+   </duplication>
+   <duplication lines="1" tokens="1">
+      <file line="3"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="4"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="5"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="7"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="3"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <file line="5"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <file line="6"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <file line="9"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <codefragment><![CDATA[public class CopyTest {]]></codefragment>
+   </duplication>
+   <duplication lines="1" tokens="1">
+      <file line="4"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="4"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <file line="5"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <codefragment><![CDATA[public static void main(String args[]) {]]></codefragment>
+   </duplication>
+   <duplication lines="1" tokens="1">
+      <file line="4"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="6"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="7"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="5"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <file line="7"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <file line="8"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <file line="9"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <codefragment><![CDATA[public static void main(String args[]) {]]></codefragment>
+   </duplication>
+   <duplication lines="1" tokens="1">
+      <file line="4"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="4"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <file line="5"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <codefragment><![CDATA[public static void main(String args[]) {]]></codefragment>
+   </duplication>
+   <duplication lines="1" tokens="1">
+      <file line="4"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="6"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="7"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="5"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <file line="7"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <file line="8"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <file line="9"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <codefragment><![CDATA[public static void main(String args[]) {]]></codefragment>
+   </duplication>
+   <duplication lines="1" tokens="1">
+      <file line="6"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="6"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="7"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <file line="7"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <file line="8"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <file line="8"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <codefragment><![CDATA[		System.out.println("Hi...");]]></codefragment>
+   </duplication>
+   <duplication lines="1" tokens="1">
+      <file line="7"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="9"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="11"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="12"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java"/>
+      <file line="9"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <file line="11"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <file line="12"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <file line="13"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <codefragment><![CDATA[	}catch(Exception ex) {]]></codefragment>
+   </duplication>
+   <duplication lines="1" tokens="1">
+      <file line="4"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <file line="7"
+            path="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java"/>
+      <codefragment><![CDATA[	private static String name;]]></codefragment>
+   </duplication>
+</pmd-cpd>

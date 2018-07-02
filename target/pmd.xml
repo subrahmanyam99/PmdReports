@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.4.0" timestamp="2018-07-02T13:24:13.498">
+<file name="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\CopyTest.java">
+<violation beginline="3" endline="12" begincolumn="8" endcolumn="1" rule="CommentRequired" ruleset="Documentation" package="com.pmd.test" class="CopyTest" externalInfoUrl="https://pmd.github.io/pmd-6.4.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+Header comments are required
+</violation>
+<violation beginline="4" endline="11" begincolumn="15" endcolumn="1" rule="CommentRequired" ruleset="Documentation" package="com.pmd.test" class="CopyTest" method="main" externalInfoUrl="https://pmd.github.io/pmd-6.4.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+Public method and constructor comments are required
+</violation>
+<violation beginline="7" endline="9" begincolumn="10" endcolumn="9" rule="EmptyCatchBlock" ruleset="Error Prone" package="com.pmd.test" class="CopyTest" method="main" externalInfoUrl="https://pmd.github.io/pmd-6.4.0/pmd_rules_java_errorprone.html#emptycatchblock" priority="3">
+Avoid empty catch blocks
+</violation>
+</file>
+<file name="C:\Users\subrahmanyam.o\eclipse-workspace\PmdReports\src\main\java\com\pmd\test\PmdTest.java">
+<violation beginline="3" endline="13" begincolumn="8" endcolumn="1" rule="CommentRequired" ruleset="Documentation" package="com.pmd.test" class="PmdTest" externalInfoUrl="https://pmd.github.io/pmd-6.4.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+Header comments are required
+</violation>
+<violation beginline="4" endline="4" begincolumn="24" endcolumn="35" rule="CommentRequired" ruleset="Documentation" package="com.pmd.test" class="PmdTest" variable="name" externalInfoUrl="https://pmd.github.io/pmd-6.4.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+Field comments are required
+</violation>
+<violation beginline="5" endline="12" begincolumn="15" endcolumn="1" rule="CommentRequired" ruleset="Documentation" package="com.pmd.test" class="PmdTest" method="main" externalInfoUrl="https://pmd.github.io/pmd-6.4.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+Public method and constructor comments are required
+</violation>
+<violation beginline="9" endline="11" begincolumn="10" endcolumn="9" rule="EmptyCatchBlock" ruleset="Error Prone" package="com.pmd.test" class="PmdTest" method="main" externalInfoUrl="https://pmd.github.io/pmd-6.4.0/pmd_rules_java_errorprone.html#emptycatchblock" priority="3">
+Avoid empty catch blocks
+</violation>
+</file>
+</pmd>
